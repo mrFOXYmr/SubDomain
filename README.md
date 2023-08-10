@@ -1,5 +1,6 @@
 # SubDomain
 SubDomain passive recon (crt.sh + dnsdumpster)
+
 use: 
 1. clone repo
 2. chmod +x SubDomain.sh
